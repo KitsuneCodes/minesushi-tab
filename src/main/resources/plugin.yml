@@ -1,0 +1,5 @@
+name: Minesushi-tab
+version: '${project.version}'
+main: paqlio.minesushi
+api-version: 1.19
+authors: [ Paqlio ]
